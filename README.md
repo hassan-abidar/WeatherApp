@@ -1,6 +1,9 @@
-# weatheraoo_
+# weatherapp_
 
-A new Flutter project.
+Flutter project :
+
+Android app shows the weather in your city .
+
 
 ## Getting Started
 
